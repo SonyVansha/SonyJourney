@@ -24,10 +24,10 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Social Media :
 <p align="center>
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord"/></a>
-  <a href="https://instagram.com/sonyvansha"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://www.linkedin.com/in/irvan-sony-afandi-bb7956250"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/SonyVansha"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="https://instagram.com/sonyvansha" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://www.linkedin.com/in/irvan-sony-afandi-bb7956250" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/SonyVansha" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ## Stepping out the door
